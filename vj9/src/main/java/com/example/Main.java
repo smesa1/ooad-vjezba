@@ -9,6 +9,7 @@ public class Main {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+         System.out.println("Evo ja ovo napisala");
           initBaza();
          boolean running = true;
 

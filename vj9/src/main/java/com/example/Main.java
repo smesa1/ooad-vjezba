@@ -12,6 +12,8 @@ public class Main {
           initBaza();
          boolean running = true;
 
+         System.out.println("Dobar dan?");
+
         while (running) {
             printMenu();
             int choice = getIntInput("Izaberite opciju: ");
